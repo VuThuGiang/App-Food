@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GrabFood</string>
+    <string name="introduction_title">Grab Food</string>
+    <string name="introduction_description">Your favourite food delivered hot and fresh</string>
+    <string name="Introduction_button">Start</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="let_s_login">Let\'s Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="let_s_register">Let\'s Register</string>
+    <string name="do_you_have_an_account_log_in">Do you have an account? log in</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="we_will_send_you_the_password_reset_link_to_your_email">We will send you the password reset link to your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="search_now">Search Now</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="address_location_ex_home">Address location Ex: Home</string>
+    <string name="addresses">Addresses</string>
+
+</resources>

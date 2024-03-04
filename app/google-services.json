@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211859915167",
+    "project_id": "grab-food-98517",
+    "storage_bucket": "grab-food-98517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211859915167:android:a9dcf666d2702af2217daa",
+        "android_client_info": {
+          "package_name": "vn.dtc.project.grabfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNUeH02hJrcnnddVHJirHeTJXuecqPb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
